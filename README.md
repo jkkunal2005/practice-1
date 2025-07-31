@@ -28,7 +28,8 @@ student-registration-form/
 
 ## Preview
 
-![Screenshot of the Form](Screenshot 2025-07-31 140722.png)
+![Screenshot of the Form](Screenshot%202025-07-31%20140722.png)
+
 
 
 
