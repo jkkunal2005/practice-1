@@ -28,9 +28,9 @@ student-registration-form/
 
 ## Preview
 
-![Screenshot of the Form](Screenshot.png)
+![Screenshot of the Form](Screenshot 2025-07-31 140722.png)
 
-> *(Replace `screenshot.png` with your actual screenshot image if you'd like to display a preview.)*
+
 
 ## Future Improvements
 
