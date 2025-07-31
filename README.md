@@ -28,7 +28,7 @@ student-registration-form/
 
 ## Preview
 
-![Screenshot of the Form](screenshot.png)
+![Screenshot of the Form](Screenshot.png)
 
 > *(Replace `screenshot.png` with your actual screenshot image if you'd like to display a preview.)*
 
